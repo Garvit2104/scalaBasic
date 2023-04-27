@@ -1,0 +1,5 @@
+package Inheritance
+
+object triangle {
+
+}
